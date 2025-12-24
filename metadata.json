@@ -1,0 +1,5 @@
+{
+  "name": "Full-Stack-Task Manager",
+  "description": "A full-stack application to manage employees and their assigned tasks. This project features a React frontend and a simulated backend for comprehensive CRUD operations.",
+  "requestFramePermissions": []
+}
